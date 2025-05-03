@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory", "Abstract
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod", "FactoryMethod\FactoryMethod.csproj", "{D317B02F-A6E6-4B0A-A051-ED7BE6094C49}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer", "Observer\Observer.csproj", "{419EB758-BFE0-4935-98BE-A18B66728DE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite", "Composite\Composite.csproj", "{B733153B-CCC6-48FD-8328-6D27D4DC1851}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{D317B02F-A6E6-4B0A-A051-ED7BE6094C49}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D317B02F-A6E6-4B0A-A051-ED7BE6094C49}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D317B02F-A6E6-4B0A-A051-ED7BE6094C49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{419EB758-BFE0-4935-98BE-A18B66728DE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{419EB758-BFE0-4935-98BE-A18B66728DE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{419EB758-BFE0-4935-98BE-A18B66728DE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{419EB758-BFE0-4935-98BE-A18B66728DE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B733153B-CCC6-48FD-8328-6D27D4DC1851}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B733153B-CCC6-48FD-8328-6D27D4DC1851}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B733153B-CCC6-48FD-8328-6D27D4DC1851}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B733153B-CCC6-48FD-8328-6D27D4DC1851}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
